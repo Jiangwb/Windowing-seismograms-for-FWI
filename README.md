@@ -1,0 +1,1 @@
+# Windowing-seismograms-for-FWI
